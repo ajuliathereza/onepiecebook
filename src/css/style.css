@@ -76,7 +76,7 @@ main::after {
     justify-content: center;
     align-items: center;
     gap: 10px;
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 .botoes .botao {
